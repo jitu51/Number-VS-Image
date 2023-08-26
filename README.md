@@ -51,8 +51,13 @@ four channel RBG and Alpha. We can check it from https://rgbacolorpicker.com/
 So far as I discussed, How  number of array construct a single band/ channel image gray image. Merging three channel / band image constructing a RBG colorful Image. How numbers blending forms a colorful image. Finally, to control a transparency of a colorful image adding new aloha channel/ band. 
 
 https://www.w3schools.com/python/
+
+https://pillow.readthedocs.io/en/latest/reference/Image.html
+
 https://numpy.org/doc/
+
 https://rgbacolorpicker.com/
+
 https://www.geeksforgeeks.org/
 
    
